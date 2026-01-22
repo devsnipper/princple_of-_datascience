@@ -1,2 +1,2 @@
-# princple_of-_datascience
+# principleofdatascience
 this respository regroup all my course sheet,code,exam,data about this course 
